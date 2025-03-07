@@ -2,7 +2,7 @@ package com.github.aboodRS.collaborative_markdown_editor_server;
 
 import org.commonmark.parser.Parser;
 import org.commonmark.renderer.html.HtmlRenderer;
-import org.commonmark.ext.gfm.tables.TablesExtension; // Ensure this import is present
+import org.commonmark.ext.gfm.tables.TablesExtension;
 import org.commonmark.ext.gfm.*;
 import javax.swing.*;
 import java.awt.*;
